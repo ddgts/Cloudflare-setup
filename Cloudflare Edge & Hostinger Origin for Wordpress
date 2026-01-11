@@ -30,7 +30,7 @@
 - No country-based rules
 - No paid WAF rules required
 
-### Response Header Hardening (Transform Rules)
+### HTTP Response Header Hardening (Transform Rules)
 Remove:
 - `X-Powered-By`
 - `Report-To`
