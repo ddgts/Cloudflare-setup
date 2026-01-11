@@ -1,4 +1,5 @@
 # 🔒 FINAL BASELINE — Cloudflare + Hostinger + WordPress (Shared Hosting)
+#Cloudflare–Hostinger–WordPress baseline v1.0.0
 
 **Status:** ✅ CONFIRMED WORKING  
 **Scope:** Production-safe, Cloudflare Free plan compatible  
